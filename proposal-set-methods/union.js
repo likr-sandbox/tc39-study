@@ -1,4 +1,4 @@
-require('core-js/features/set')
+require('core-js/proposals/set-methods')
 
 // 基本的な使い方
 const a = new Set([1, 2, 3, 4])
